@@ -1,0 +1,1 @@
+console.log(alert=5%3);
